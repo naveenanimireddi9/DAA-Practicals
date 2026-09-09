@@ -1,8 +1,10 @@
 # Practical 3 - Implementation of Max-Heap Sort Algorithm
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** A.Naveen 
+**Enrollment No:** 92460118832
+
+
 
 Files:
 - `practical_03.cpp` - C++ code

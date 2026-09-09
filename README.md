@@ -1,5 +1,6 @@
 # DAA Practicals 01-05
 
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026  
+**Name:** A.Naveen 
+**Enrollment No:** 92460118832
+
 **Course:** Design and Analysis of Algorithms - DAA (01AI0506)

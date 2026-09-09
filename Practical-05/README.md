@@ -1,8 +1,9 @@
 # Practical 5 - Implementation of 0/1 Knapsack using Dynamic Programming
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** A.Naveen 
+**Enrollment No:** 92460118832
+
 
 Files:
 - `practical_05.cpp` - C++ code
